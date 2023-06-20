@@ -1,7 +1,7 @@
 # Google Cloud Launcher
 
-## Deploying
-First off we're going to deploy a cluster.  That's really easy with Cloud Launcher.  Simply go to https://console.cloud.google.com/marketplace/product/sparkflows-public/fire-insights?project=sparkflows-public
+## Launching and deployment of Sparkflows Instance
+First off we're going to deploy an instance.  That's really easy with Cloud Launcher.  Simply go to https://console.cloud.google.com/marketplace/product/sparkflows-public/fire-insights?project=sparkflows-public
 
 ![](images/gcp_image1.jpg)
 
